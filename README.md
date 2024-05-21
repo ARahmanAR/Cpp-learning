@@ -4,7 +4,7 @@ This GitHub repository serves as your personal C++ learning playground! Here, yo
 
 **Getting Started**
 
-* **Clone this Repository:**  Use `git clone https://github.com/<your-username>/cpp-learning.git` to clone this repository to your local machine.
+* **Clone this Repository:**  Use `git clone https://github.com/<your-username>/Cpp-learning.git` to clone this repository to your local machine.
 * **Set Up Your Environment:** Ensure you have a C++ compiler (GCC or Clang) and a text editor/IDE of your choice (e.g., Visual Studio Code, Code::Blocks) installed.
 
 **Folder Structure (Optional)**
