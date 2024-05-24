@@ -8,5 +8,5 @@ int main()
     cout << p << endl;
     cout << &p << endl;
     cout << &x << endl;
-    cout << *p << endl;
+    cout << *p << endl; // Dereferencing
 }
